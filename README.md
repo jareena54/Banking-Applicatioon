@@ -1,4 +1,6 @@
 Banking Application Project
+
+
 Project Description:
 Developed a comprehensive Banking Application that allows users to manage their bank accounts efficiently through a web-based interface. The application provides features for creating new accounts, checking account balances, depositing and withdrawing funds, transferring money, and closing accounts. The project ensures that users are guided through correct and incorrect data entry, enhancing the user experience and minimizing errors.
 
